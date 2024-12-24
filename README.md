@@ -1,6 +1,7 @@
 # AHMYTH-Master
 ANDROID REMOTE ADMINISTRATIVE TOOL
-You can use this on your linux machine by cloning this 
+
+ ![AHMyth Screenshot](https://raw.githubusercontent.com/Morsmalleo/AhMyth/master/.github/IMG/Oval-logo.png)
 
 1. Clone this repo
    ```bash
