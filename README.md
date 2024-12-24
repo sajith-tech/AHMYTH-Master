@@ -4,7 +4,7 @@ You can use this on your linux machine by cloning this
 
 1. Clone this repo
    ```bash
-   git clone ...
+   git clone https://github.com/sajith-tech/AHMYTH-Master.git
 2. Change to the directory AHMYTH-Master
    ```bash
    cd AHMYTH-Master
