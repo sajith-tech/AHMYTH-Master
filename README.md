@@ -1,5 +1,5 @@
 # AHMYTH-Master
-ANDROID REMOTE ADMINISTRATIVE TOOL
+ANDROID REMOTE ADMINISTRATION TOOL
 
  ![AHMyth Screenshot](https://raw.githubusercontent.com/Morsmalleo/AhMyth/master/.github/IMG/Oval-logo.png)
 
